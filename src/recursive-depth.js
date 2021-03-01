@@ -15,5 +15,3 @@ module.exports = class DepthCalculator {
     return result;
   }
 };
-
-// [1, 2, 3, [8, [2]], 4, 5, []]), 3);
